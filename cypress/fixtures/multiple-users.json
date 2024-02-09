@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4,
+    "username": "johnny",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@gmail.com",
+    "password": "string",
+    "phone": "0895747",
+    "userStatus": 1
+  },
+
+  {
+    "id": 5,
+    "username": "jacktwenty",
+    "firstName": "Jack",
+    "lastName": "Twenty",
+    "email": "jack@gmail.com",
+    "password": "string",
+    "phone": "895858688",
+    "userStatus": 0
+  },
+  {
+    "id": 6,
+    "username": "hannah",
+    "firstName": "miley",
+    "lastName": "cyrus",
+    "email": "miley@gmail.com",
+    "password": "string445",
+    "phone": "8686859",
+    "userStatus": 1
+  },
+  {
+    "id": 8,
+    "username": "nameUnknown",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 0
+  }
+
+]
